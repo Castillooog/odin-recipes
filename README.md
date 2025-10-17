@@ -1,1 +1,1 @@
-Creare un sitio web de recetas basicas, el cual tendra un indice principal que contendra enlaces a algunas recetas. Debo usar HTML y CSS basico para hacerlo, aunque ya tenga un poco mas de conocimiento a la hora de hacer el curso.
+Crearé un sitio web de recetas basicas, el cual tendra un indice principal que contendra enlaces a algunas recetas. Debo usar HTML y CSS basico para hacerlo, aunque ya tenga un poco mas de conocimiento a la hora de hacer el curso.
